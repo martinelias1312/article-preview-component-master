@@ -77,13 +77,6 @@ figure {
     padding: 0 2em;
 }
 
-/* Class for color adding when clicking on share button */
-.color {
-    background: var(--Very-Dark-Grayish-Blue);
-    border-radius: 0 0 15px 15px;
-    padding: 1em 2em;
-}
-
 .avatar-wrap {
     max-width: 15%;
     display: flex;
@@ -155,6 +148,15 @@ figcaption, .avatar-wrap {
     width: 15px;
     height: 13px;
     display: block;
+    margin: -1px;
+}
+
+/* -- Active states -- */
+/* Class for color adding when clicking on share button */
+.color {
+    background: var(--Very-Dark-Grayish-Blue);
+    border-radius: 0 0 15px 15px;
+    padding: 1em 2em;
 }
 
 /* -- Footer -- */
