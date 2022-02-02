@@ -123,6 +123,7 @@ figcaption, .avatar-wrap {
 
 .text-share {
     text-transform: uppercase;
+    color: var(--Grayish-Blue);
 }
 
 .fb {
