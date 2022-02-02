@@ -99,11 +99,16 @@ figcaption, .avatar-wrap {
     padding-left: 1em;
 }
 
+.icon-a {
+    border: 10px solid var(--Light-Grayish-Blue);
+    border-radius: 50%;
+}
+
 .share {
-    background: url(/assets/img/icon-share.svg);
-    height: 0;
-    padding: 7px 8px 6px 7px;
-    border: 3px solid var(--Light-Grayish-Blue);
+    background: url(/assets/img/icon-share.svg) var(--Light-Grayish-Blue);
+    width: 15px;
+    height: 13px;
+    display: block;
 }
 
 /* -- Footer -- */
