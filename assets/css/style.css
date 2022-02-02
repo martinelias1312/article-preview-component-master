@@ -81,7 +81,7 @@ figure {
 .color {
     background: var(--Very-Dark-Grayish-Blue);
     border-radius: 0 0 15px 15px;
-    padding: 1em 0;
+    padding: 1em 2em;
 }
 
 .avatar-wrap {
