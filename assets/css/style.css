@@ -74,6 +74,7 @@ h2, .name {
 figure {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .avatar-wrap {
@@ -96,6 +97,13 @@ figcaption, .avatar-wrap {
     display: flex;
     flex-direction: column;
     padding-left: 1em;
+}
+
+.share {
+    background: url(/assets/img/icon-share.svg);
+    height: 0;
+    padding: 7px 8px 6px 7px;
+    border: 3px solid var(--Light-Grayish-Blue);
 }
 
 /* -- Footer -- */
