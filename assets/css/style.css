@@ -55,7 +55,7 @@ main {
 
 /* Text content */
 .text-wrap {
-    margin: 3em 2em 0.5em;
+    margin: 3em 2em 0;
 }
 
 h2 {
@@ -74,6 +74,7 @@ figure {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 2em;
 }
 
 .avatar-wrap {
@@ -103,6 +104,44 @@ figcaption, .avatar-wrap {
     border-radius: 50%;
 }
 
+/* Socials icons + links */
+.socials {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 1.5em;
+} 
+
+.text-share {
+    text-transform: uppercase;
+}
+
+.fb {
+    background: url(/assets/img/icon-facebook.svg);
+}
+
+.tw {
+    background: url(/assets/img/icon-twitter.svg);
+}
+
+.pin {
+    background: url(/assets/img/icon-pinterest.svg);
+}
+
+.fb, .tw, .pin {
+    background-color: var(--Very-Dark-Grayish-Blue);
+    display: block;
+    width: 20px;
+    height: 20px;
+}
+
+.tw {
+    height: 17px;
+}
+
+/* Share button */
 .share {
     background: url(/assets/img/icon-share.svg) var(--Light-Grayish-Blue);
     width: 15px;
