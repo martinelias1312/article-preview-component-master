@@ -25,15 +25,15 @@ Users should be able to:
 
 ### Screenshot
 
-![375px](assets/img/375px.png)
-![1440px](assets/img/1440px.png)
-![assets/img/375px-active.png](assets/img/375px-active.png)
-![375px](assets/img/1440px-active.png)
+![](assets/img/375px.png)
+![](assets/img/1440px.png)
+![](assets/img/375px-active.png)
+![](assets/img/1440px-active.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/article-component-with-social-media-share-links-on-click-ScEokEC54](https://www.frontendmentor.io/solutions/article-component-with-social-media-share-links-on-click-ScEokEC54)
+- Live Site URL: [https://article-preview-component-master-tau-brown.vercel.app/](https://article-preview-component-master-tau-brown.vercel.app/)
 
 ## My process
 
