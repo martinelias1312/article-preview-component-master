@@ -27,6 +27,8 @@ Users should be able to:
 
 ![375px](assets/img/375px.png)
 ![1440px](assets/img/1440px.png)
+![assets/img/375px-active.png](assets/img/375px-active.png)
+![375px](assets/img/1440px-active.png)
 
 ### Links
 
